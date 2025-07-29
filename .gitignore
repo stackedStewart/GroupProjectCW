@@ -1,0 +1,36 @@
+# -------------------------------------------------
+# NetBeans (Ant project)
+# -------------------------------------------------
+nbproject/private/              # developer prefs
+nbproject/build-impl.xml        # regenerated
+nbproject/genfiles.properties   # regenerated
+nbproject/.*                    # dot-files inside nbproject
+nbbuild/                        # IDE build output
+
+# -------------------------------------------------
+# Ant build artefacts
+# -------------------------------------------------
+build/                          # compiled classes
+dist/                           # runnable JARs
+*.jar
+*.war
+*.ear
+
+# -------------------------------------------------
+# Java / JVM generics
+# -------------------------------------------------
+*.class
+*.log
+hs_err_pid*.log                 # JVM crash logs
+
+# -------------------------------------------------
+# OS cruft
+# -------------------------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------------------------
+# Editor swap / backup files
+# -------------------------------------------------
+*~
+*.swp
